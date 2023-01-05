@@ -11,3 +11,9 @@ font-size: 45px;
 .text-primary{
     color: #FD6E0A;
 }
+nav{
+    display: flex;
+}
+nav li{
+    list-style: none;
+}
